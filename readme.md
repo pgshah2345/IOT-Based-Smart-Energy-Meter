@@ -103,21 +103,21 @@ IoT-Based-Smart-Energy-Meter
 
 ## Prototype
 
-![Prototype 1](Images/Circuit%201.jpeg)
+![Prototype 1](Images./Circuit%201.jpeg)
 
-![Prototype 2](Images/Circuit%202.jpeg)
+![Prototype 2](Images./Circuit%202.jpeg)
 
 ---
 
 ## Circuit Diagram
 
-![Circuit](Hardware/circuit.jpg)
+![Circuit](Hardware./circuit.jpg)
 
 ---
 
 ## Block Diagram
 
-![Block Diagram](Hardware/block%20diagram.jpg)
+![Block Diagram](Hardware./block%20diagram.jpg)
 
 ---
 
