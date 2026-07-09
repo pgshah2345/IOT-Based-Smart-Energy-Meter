@@ -123,12 +123,12 @@ IoT-Based-Smart-Energy-Meter
 
 ## Google Sheets Dashboard
 
-![Google Sheets](Images/Google%20Sheets.jpeg)
+![Google Sheets](Images./Google%20Sheets.jpeg)
 
 ---
 ## Web Dashboard
 
-![Web Dashboard](Images/Web%20Dashboard.jpeg)
+![Web Dashboard](Images./Web%20Dashboard.jpeg)
 
 # Results
 
