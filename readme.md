@@ -103,38 +103,32 @@ IoT-Based-Smart-Energy-Meter
 
 ## Prototype
 
-*(Add your project photos here after uploading)*
+![Prototype 1](Images/Circuit%201.jpeg)
 
-```
-Images/prototype1.jpg
-Images/prototype2.jpg
-```
+![Prototype 2](Images/Circuit%202.jpeg)
 
 ---
 
 ## Circuit Diagram
 
-```
-Hardware/circuit.png
-```
+![Circuit](Hardware/circuit.jpg)
 
 ---
 
 ## Block Diagram
 
-```
-Hardware/block_diagram.png
-```
+![Block Diagram](Hardware/block%20diagram.jpg)
 
 ---
 
 ## Google Sheets Dashboard
 
-```
-Images/dashboard.png
-```
+![Google Sheets](Images/Google%20Sheets.jpeg)
 
 ---
+## Web Dashboard
+
+![Web Dashboard](Images/Web%20Dashboard.jpeg)
 
 # Results
 
